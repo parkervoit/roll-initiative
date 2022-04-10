@@ -9,5 +9,7 @@ Required dependencies:
 - Git
 - Streamlit
 
+You will need to format your own .json file with your character sheet information. View the notebook for an example. 
+
 ### Notes
 Read the notebook for an example of how to use the tool.
